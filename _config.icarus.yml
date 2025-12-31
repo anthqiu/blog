@@ -222,7 +222,7 @@ widgets:
                 icon: fab fa-instagram
                 url: https://www.instagram.com/qhurc23/
             Bluesky:
-                icon: fab fa-bluesky
+                icon: fas fa-hashtag
                 url: https://bsky.app/profile/qsx.me
     # Table of contents widget configurations
     -
